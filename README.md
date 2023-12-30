@@ -3,4 +3,4 @@ What I've learnt in competitive programming.
 
 I'm trying this cool thing called Github!   
 
-hello there
+some more changes on 1:57am
